@@ -1,0 +1,22 @@
+{
+  "name": "smartedustarter-20220629t204552z-001",
+  "version": "1.0.0",
+  "description": "Education Portal",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "education",
+    "portal",
+    "nodejs"
+  ],
+  "author": "Mustafa Görkem Fedai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
